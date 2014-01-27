@@ -49,7 +49,7 @@ Some kind of chat functionality for communciating between buyer & seller
 Minimum Viable Product
 -----------
 iOS app that allows for:
-- Anonymous browsing of listings
+- Anonymous browsing of listings (dummy database)
 - To post a listing **or** to make an offer on a listing:
   - Must create an account
 - QR scan -> fake paypal transaction
