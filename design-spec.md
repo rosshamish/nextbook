@@ -3,8 +3,6 @@ Hackathon Textbook App
 Design Spec
 ----
 
----------
-
 > Purchase & sale of used textbooks with privacy and easy transactions.
 
 A solution to the maze that is textbook buying & selling.  
