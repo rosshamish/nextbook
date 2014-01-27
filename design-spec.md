@@ -41,7 +41,7 @@ Tech
 -----------
 
 Objective-C on iOS for the prototype.  
-Remote server database (SQL probably, have to hit it with API requests from app) for storage of *listings*, *users*, etc.  
+Remote server database (SQL probably, have to hit it with API requests from app) for storage of *listings*, *users*, etc. Maybe use [Kumulos](http://www.kumulos.com/) as a database backend - they offer tables in the cloud that you can hit with API calls from iOS.  
 [PayPal API](https://developer.paypal.com/docs/classic/lifecycle/apps101/) for transactions (iOS version **or** [REST HTTP](blog.strikeiron.com/bid/63338/Integrate-a-REST-API-into-an-iPhone-App-in-less-than-15-minutes) version, will have to research)  
 [Firebase](https://www.firebase.com/docs/security/simple-login-ios-email-password.html) for authentication  
 Some kind of chat functionality for communciating between buyer & seller
