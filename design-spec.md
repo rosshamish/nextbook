@@ -57,7 +57,7 @@ iOS app that allows for:
 Business
 -----------
 The app could be monetized fairly easily. Two important things:  
-1. **DO NOT TAX THE BUYER**. Buyer interest will be the only thing that makes the service worth anything.
+1. **DO NOT TAX THE BUYER**. Buyer interest will be the only thing that makes the service worth anything.  
 2. **DO NOT TAX THE AVERAGE SELLER**. It needs to be dead simple to sell something. If you want extra options/sticky listings/whatever, those can be monetized.
 
 Monetization options:
